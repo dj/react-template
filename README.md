@@ -1,5 +1,5 @@
 # React Template
-Application template for a single page app using [react](https://react.dev/), [vite](https://vitejs.dev/), [redux toolkit](https://redux-toolkit.js.org/), [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) and [mock service worker](https://mswjs.io/) by [@dj](github.com/dj).
+Application template for a single page app using [react](https://react.dev/), [vite](https://vitejs.dev/), [redux toolkit](https://redux-toolkit.js.org/), [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) and [mock service worker](https://mswjs.io/) by [@dj](https://github.com/dj).
 
 ## Run App in Development Mode
 
