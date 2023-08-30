@@ -63,7 +63,6 @@ src
         index.js                    -- All top-level route components must be imported into this file when you add a new route
     store.js                        -- Sets up the redux store with redux toolkit
     main.jsx                        -- Top level file in the javascript bundle.
-.gitlab-ci.yml                      -- Configure gitlab CI/CD
 vite.config.js                      -- Configure vite which is used to build the application
 ```
 
