@@ -1,0 +1,12 @@
+version: "3.4"
+
+services:
+  frontend:
+    container_name: ada-etl-frontend
+    build:
+      context: .
+    volumes:
+      - ./src:/app/src
+      - ./tests:/app/tests
+    ports:
+      - "3000:3000"
